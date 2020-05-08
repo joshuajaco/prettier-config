@@ -7,6 +7,6 @@
     "prettier.config.js"
   ],
   "devDependencies": {
-    "prettier": "^1.18.2"
+    "prettier": "^2.0.5"
   }
 }
