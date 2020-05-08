@@ -1,6 +1,6 @@
 {
   "name": "@joshuajaco/prettier-config",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "main": "prettier.config.js",
   "license": "MIT",
   "files": [
